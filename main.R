@@ -1,6 +1,4 @@
-# Title     : TODO
-# Objective : TODO
-# Created by: Chris
+# Created by: Chris Molina
 # Created on: 9/3/2020
 library(dplyr)
 #Data Wrangling
